@@ -3,7 +3,7 @@
 ## Overview
 #### This repository contains a Dash-based web application for visualizing DNA-related expenses across different departments, such as Biop, QC, and Operations. The app allows users to interactively explore spending data on Reagents, Consumables, and Equipment by selecting different expense categories and departments. The visualizations are created using Plotly for dynamic and intuitive data insights.
 
-## vFeatures
+## Features
 - Interactive Dropdowns: Users can select different expense categories and departments to generate custom visualizations.
 - Bar Chart Visualization: Displays expense data categorized by spending category and department using a grouped bar chart.
 - Dynamic Filtering: The app updates the plot in real-time based on user input from the dropdown menus.

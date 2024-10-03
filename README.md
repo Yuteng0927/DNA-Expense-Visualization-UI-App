@@ -5,7 +5,10 @@
 
 ## Features
 - Interactive Dropdowns: Users can select different expense categories and departments to generate custom visualizations.
+![image](https://github.com/Yuteng0927/DNA-Expense-Visualization-UI-App/blob/main/Images/Category%20dropdown.png)
+![image](https://github.com/Yuteng0927/DNA-Expense-Visualization-UI-App/blob/main/Images/Department%20dropdown.png)
 - Bar Chart Visualization: Displays expense data categorized by spending category and department using a grouped bar chart.
+![image](https://github.com/Yuteng0927/DNA-Expense-Visualization-UI-App/blob/main/Images/Graphs.png)
 - Dynamic Filtering: The app updates the plot in real-time based on user input from the dropdown menus.
 
 ## Application Structure
